@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Resilience Finance App Documentation!!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Resilience** (/re·sil·ien·se/) is a budgeting and finance tracking app for students and anyone who struggles to keep track of their money. It has a simple user friendly design.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -19,4 +16,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   installation
