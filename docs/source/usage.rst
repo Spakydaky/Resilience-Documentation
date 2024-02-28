@@ -6,29 +6,17 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Resilience, just launch this website link:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   www.placeholder-website.com
 
-Creating recipes
+Creating you savings
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To start youll be asked to create an account with us to keep your information secure, where youll need tp input your ''name'', ''email'', ''budget amount'' and create your own ''password''.
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+after this youll be able to login with your newly created email and password, and youll be greeted with the home page of our suggested saving widgets; a line chart of spending this week, and a pie chart of which categories youve been spending in and how much you have left. Initialy this will be populated with dummy data, right up until you add your first expense or income.
 
 .. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
