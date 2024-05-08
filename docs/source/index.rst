@@ -19,3 +19,4 @@ Contents
    usage
    installation
    Adding Transactions
+   Dashboard
