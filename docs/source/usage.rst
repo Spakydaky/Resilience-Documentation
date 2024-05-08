@@ -12,11 +12,11 @@ To use Resilience, just launch this website link:
 
    www.placeholder-website.com
 
-Creating you savings
+Creating your savings
 ----------------
 
-To start youll be asked to create an account with us to keep your information secure, where youll need tp input your ''name'', ''email'', ''budget amount'' and create your own ''password''.
+To start you'll be asked to create an account with us to keep your information secure, where you'll need tp input your name, email, budget amount and create your own password.
 
-after this youll be able to login with your newly created email and password, and youll be greeted with the home page of our suggested saving widgets; a line chart of spending this week, and a pie chart of which categories youve been spending in and how much you have left. Initialy this will be populated with dummy data, right up until you add your first expense or income.
+after this you'll be able to login with your newly created email and password from the login screen you'll be directed to, and be greeted with the home page. If you've never used the app before you'll be directed to create a transaction to start saving.
 
 .. autoexception:: lumache.InvalidKindError
