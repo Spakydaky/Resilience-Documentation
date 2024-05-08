@@ -12,11 +12,11 @@ In the *Category* field you enter what you spent the money or where the money is
 
 Description
 ````````````
-The *Description* field allows you to make notes about the transactiion. This can be whatever you need or want it to be in order to help you better remember perhaps, or maybe to distinguish between similar transactions. The choice is yours, and remember transactions *require* descriptions, so feel free to leave it blank if you want.
+The *Description* field allows you to make notes about the transactiion. This can be whatever you need or want it to be in order to help you better remember perhaps, or maybe to distinguish between similar transactions. The choice is yours, and remember transactions don't *require* descriptions, so feel free to leave it blank if you want.
 
 Value
 ``````
-The value field is simple, its the amount going to/from your account. The value *must* be prefixed with either a "+" for money coming in, or a "-" for money coming out.
+The value field is simple, it's the amount going to/from your account. The value *must* be prefixed with either a "+" for money coming in, or a "-" for money coming out, and it *must not* have a currency symbol.
 
 Dates
 ``````
@@ -28,7 +28,7 @@ Managing Your Transactions
 Editing & Deleting
 ```````````````````
 
-To make changes to your transactions whether thats editing or deleting your first need to be on the *Your Transactions* page. Getting there from the dahsboard (where your balance shows) is a matter of simply pressing the blue "+" in the bottom right hand side of your screen, the same as if you were going to add as new transaction. Once on the *Your Transactions* page, scroll to find the transaction you want to edit or delete and press on it. Two options will show in a widget, edit or delete. 
+To make changes to your transactions whether thats editing or deleting you'll first need to be on the *Your Transactions* page. Getting there from the dahsboard (where your balance shows) is a matter of simply pressing the blue "+" in the bottom right hand side of your screen, the same as if you were going to add a new transaction. Once on the *Your Transactions* page, scroll to find the transaction you want to edit or delete and press on it. Two options will show in a widget, edit or delete. 
 
 Editing
 ........
@@ -38,6 +38,6 @@ Editing
 
 Deleting
 .........
-* Once youve pressed "delete" the transaction will be gone after reloading the page. (work in progress)
+* Once you've pressed "delete" the transaction will be gone after reloading the page. (work in progress)
 
 
