@@ -18,3 +18,4 @@ Contents
 
    usage
    installation
+   Adding Transactions
