@@ -20,7 +20,7 @@ The value field is simple, it's the amount going to/from your account. The value
 
 Dates
 ``````
-You'll notice theres a date too! If you want to make a transaction for the past simply press the date and change it to the one you desire. The date is set to the current date and time by default.
+You'll notice there's a date too! If you want to make a transaction for the past simply press the date and change it to the one you desire. The date is set to the current date and time by default.
 
 Managing Your Transactions
 --------------------------
