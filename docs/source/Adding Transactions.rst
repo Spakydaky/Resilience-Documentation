@@ -30,12 +30,14 @@ Editing & Deleting
 
 To make changes to your transactions whether thats editing or deleting your first need to be on the *Your Transactions* page. Getting there from the dahsboard (where your balance shows) is a matter of simply pressing the blue "+" in the bottom right hand side of your screen, the same as if you were going to add as new transaction. Once on the *Your Transactions* page, scroll to find the transaction you want to edit or delete and press on it. Two options will show in a widget, edit or delete. 
 
-* Editing
-You'll be redirected to the same screen as adding a new transaction with the chosen transaction's details entered already.
-Change the details of the transaction however you wish.
-Press save changes.
+Editing
+........
+* You'll be redirected to the same screen as adding a new transaction with the chosen transaction's details entered already.
+* Change the details of the transaction however you wish.
+* Press save changes.
 
-* Deleting
-Once youve pressed "delete" the transaction will be gone after reloading the page. (work in progress)
+Deleting
+.........
+* Once youve pressed "delete" the transaction will be gone after reloading the page. (work in progress)
 
 
