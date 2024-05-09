@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Resilience, just launch this website link:
+To use Resilience, just launch this website link and fork the repository:
 
 .. code-block:: console
 
-   www.placeholder-website.com
+   https://github.com/Resilliance1/Finance-App
 
 Creating your savings
 ----------------
