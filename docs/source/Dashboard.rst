@@ -3,11 +3,11 @@ Dashboard
 
 Balance
 -------
-At the top centre of your dahsboard screen there will be a large value that is your overall account balance. This value is calculated by the sum of all your transactions.
+At the top centre of your dahsboard screen there will be a large value that is your overall account balance. This value is calculated by the sum of all your transactions. You will recieve notifications when your balance gets low enough to be *near* your minimum balance, *equal to* your minimum balance, and *below* your minimum balance.
 
 Recent Transactions
 --------------------
-On the left will be a list of your most recent transactions as well as what category they were in.
+On the left will be a list of your 10 most recent transactions as well as what category they were in.
 
 Expenses Piechart
 ------------------
