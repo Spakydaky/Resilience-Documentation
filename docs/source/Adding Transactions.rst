@@ -12,7 +12,7 @@ In the *Category* field you enter what you spent the money or where the money is
 
 Description
 ````````````
-The *Description* field allows you to make notes about the transactiion. This can be whatever you need or want it to be in order to help you better remember perhaps, or maybe to distinguish between similar transactions. The choice is yours, and remember transactions don't *require* descriptions, so feel free to leave it blank if you want.
+The *Description* field allows you to make notes about the transactiion. This can be whatever you need or want it to be in order to help you better remember perhaps, or maybe to distinguish between similar transactions. The choice is yours, and remember transactions *require* descriptions too.
 
 Value
 ``````
